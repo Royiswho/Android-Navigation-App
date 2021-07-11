@@ -7,7 +7,7 @@
 ---
 ### 1. Main Interface
 
-<img src="media/image1.PNG" width = "600" align="center">
+<img src="media/image1.PNG" width = "400" align="center">
 
 ### 2. Dial
 
